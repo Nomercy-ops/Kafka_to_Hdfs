@@ -1,6 +1,7 @@
 # Kafka_to_Hdfs
 # Version used:
 * Kafka _2.13-2.8.0
+* pydoop 2.0.0
 # KAFKA TASK 2: Write python program for producer and consumer and send stock data from producer to consumer and store it to hdfs.
 
 * Step1:
